@@ -1,0 +1,6 @@
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+webview-react-app/node_modules
